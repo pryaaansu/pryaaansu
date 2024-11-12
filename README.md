@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asif Qamar (Cyphrr_07) 👋</h1>
+<h1 align="center">Hi there, I'm Priyanshu Pramanik (pryaaansu) 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=600&color=16c8f0&center=true&width=435&lines=CS+Student+%7C+Open+Source+Contributor+%7C+Aspiring+Software+Engineer;Passionate+about+Data+Science+%7C+AI+%7C+Full-Stack+Dev" alt="Typing SVG">
