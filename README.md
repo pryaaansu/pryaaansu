@@ -7,7 +7,7 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 
 - 🎓 **Education**: B.Tech in Computer Science from [Dayananda Sagar Academy Of Technology and Management](#).
 - 💻 **Skills**: Python, Java, C, C++, HTML/CSS, JavaScript, Data Structures & Algorithms (DSA).
-- 📺 **Content Creation**: Over 20k subscribers on YouTube, where I create content focused on editing and tech tutorials.
+- 📺 **Content Creation**: Over 300 subscribers on YouTube, where I create content focused on editing and tech tutorials.
 - 💡 **Interests**: Ethical Hacking, Bug Bounty Hunting, Full-Stack Development, and Game Development.
   
 ---
