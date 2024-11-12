@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm Priyanshu Pramanik (pryaaansu) 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=600&color=16c8f0&center=true&width=435&lines=CS+Student+%7C+Open+Source+Contributor+%7C+Aspiring+Software+Engineer;Passionate+about+Data+Science+%7C+AI+%7C+Full-Stack+Dev" alt="Typing SVG">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -11,8 +7,8 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 
 - 🎓 **Education**: B.Tech in Computer Science from [Dayananda Sagar Academy Of Technology and Management](#).
 - 💻 **Skills**: Python, Java, C, C++, HTML/CSS, JavaScript, Data Structures & Algorithms (DSA).
-- 📺 **Content Creation**: Over 300 subscribers on YouTube, where I create editing contents.
-- 💡 **Interests**: Ethical Hacking, Bug Bounty Hunter, Full-Stack Development, and Game Development.
+- 📺 **Content Creation**: Over 20k subscribers on YouTube, where I create content focused on editing and tech tutorials.
+- 💡 **Interests**: Ethical Hacking, Bug Bounty Hunting, Full-Stack Development, and Game Development.
   
 ---
 
@@ -29,14 +25,12 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -46,6 +40,13 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 ### Design & Multimedia
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23BB007C.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### Hobbies
+- Ethical Hacking
+- Bug Bounty Hunter
+- Penetration Testing
 
 ---
 
@@ -54,8 +55,6 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 | Repository | Description | Stars | Forks |
 |------------|-------------|-------|-------|
 | [TrainBid](https://github.com/your-username/TrainBid) | A platform to bid on train tickets when they are out of stock. | ⭐ 50 | 🍴 20 |
-| [Awesome-Python-Scripts](https://github.com/your-username/Awesome-Python-Scripts) | Collection of useful Python scripts for automation and data processing. | ⭐ 100 | 🍴 40 |
-| [Machine-Learning-Projects](https://github.com/your-username/Machine-Learning-Projects) | Practical ML projects to get hands-on with algorithms and techniques. | ⭐ 75 | 🍴 30 |
 
 ---
 
