@@ -56,6 +56,8 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 |------------|-------------|-------|-------|
 | [TrainBid](https://github.com/pryaaansu/trainbid) | A platform to bid on train tickets when they are out of stock. | ⭐ 0 | 🍴 0 |
 | [Virus and Server](https://github.com/pryaaansu/backdoor) | A python software of getting information of a target system | ⭐ 0 | 🍴 0 |
+| [Bruteforce](https://github.com/pryaaansu/bruteforce) | A python software of bruteforcing various ID and passwords | ⭐ 0 | 🍴 0 |
+| [Directories](https://github.com/pryaaansu/directories) | A python software of fetching vulnerable files from a system | ⭐ 0 | 🍴 0 |
 
 ---
 
