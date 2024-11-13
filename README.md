@@ -72,7 +72,7 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 
 ## 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pryaaansu&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
