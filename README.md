@@ -64,8 +64,8 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=onedark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pryaaansu&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pryaaansu&layout=compact&theme=onedark&hide_border=true&count_private=true" width="48%" />
 </div>
 
 ---
