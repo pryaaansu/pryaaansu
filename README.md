@@ -79,9 +79,9 @@ I am a **Computer Science Undergraduate** and a dedicated **Open Source Contribu
 
 ## 👨‍🔧 Coding Profiles
 <p align="left">
-  <a href="https://www.hackerrank.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/your-username" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/your-username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerrank.com/profile/prynsu99" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/pryaaansu" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/pryaaansu/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
